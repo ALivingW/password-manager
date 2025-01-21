@@ -7,5 +7,5 @@ If the user would like to see their account passwords, the dictionary keys and v
 
 NOTES-
 For encryption, I avoided using the cryptography library to give me more of a challenge.
-When storing the passwords, there were a lot of different ways to do it, such as using an sqlite3 database, however, I felt that I needed to practise file handling.
+When storing the passwords, there were a lot of different ways to do it, such as using an sqlite3 database, however, I felt that I needed to practise json file handling.
 I have gained valuable back-end development experience from this project, and am producing a GUI using Kivy to gain front-end experience aswell. I will soon add the password manager with GUI once completed.
