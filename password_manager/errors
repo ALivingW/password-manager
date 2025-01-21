@@ -1,0 +1,4 @@
+error:
+so when you import a funtion from a different file, the main program is working off of what the imported function
+RETURNS, so if you wanna work with the result of passing data through a function in an external file, always have it
+returning the desired value.
